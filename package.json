@@ -1,0 +1,24 @@
+{
+  "name": "p2p-exchange-poc",
+  "version": "1.0.0",
+  "description": "p2p exchange proof of concept",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kostyade/p2p-exchange-poc.git"
+  },
+  "author": "kostyade@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kostyade/p2p-exchange-poc/issues"
+  },
+  "homepage": "https://github.com/kostyade/p2p-exchange-poc#readme",
+  "dependencies": {
+    "grenache-nodejs-http": "^0.7.12",
+    "grenache-nodejs-link": "^0.7.12"
+  }
+}
