@@ -1,4 +1,4 @@
-# P2P distrobuted exchange
+# P2P distributed exchange
 
 Proof of Concept of simple p2p exchange using [Grenache](https://github.com/bitfinexcom/grenache).
 
